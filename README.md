@@ -1,6 +1,6 @@
 # Data Analyst
 
-## LINKS
+## Links
 -	[LinkedIn](https://www.linkedin.com/in/shashank-rallapalli-79a637105!)
 - 	[GitHub](https://github.com/ShashankRallapalli25)
 - 	[Tableau Public](https://public.tableau.com/app/profile/rvss.shashank) 
