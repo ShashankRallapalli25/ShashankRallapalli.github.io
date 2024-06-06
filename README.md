@@ -1,19 +1,19 @@
 # Data Analyst
 
-#### Technical Skills: 
-•	Tools: Power BI, Tableau, Qlik, Alteryx, RStudio, SAS Visual Analytics, Azure Databricks, MS Excel
-•	Languages: Python, R-Programming, SQL, DAX
-•	Libraries: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly, ggplot2, dplyr, tidyr
-•	Database: Oracle, SQL Server, MySQL, PostgreSQL, MongoDB
-•	Cloud Services: Snowflake, Azure Data storage, Azure ML
-•	Data Warehousing, Data Mining, ETL, Data Manipulation, Statistical Analysis, Data Modeling
-•	Predictive models: Linear regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVM, KNN, K-means
-•	Machine Learning, Supervised and Unsupervised models, Artificial Intelligence, LLM, NLP
-•	Teamwork and Collaboration
-•	Quick Learner
-•	Fast Learner
-•	Problem-Solving
-•	Project Management
+## LINKS
+[LinkedIn](https://www.linkedin.com/in/shashank-rallapalli-79a637105!)
+[GitHub](https://github.com/ShashankRallapalli25)
+[Tableau Public](https://public.tableau.com/app/profile/rvss.shashank) 
+
+## Technical Skills: 
+-	**Tools**: Power BI, Tableau, Qlik, Alteryx, RStudio, SAS Visual Analytics, Azure Databricks, MS Excel
+-	**Languages**: Python, R-Programming, SQL, DAX
+-	**Libraries**: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly, ggplot2, dplyr, tidyr
+-	**Database**: Oracle, SQL Server, MySQL, PostgreSQL, MongoDB
+-	**Cloud Services**: Snowflake, Azure Data storage, Azure ML
+-	Data Warehousing, Data Mining, ETL, Data Manipulation, Statistical Analysis, Data Modeling
+-	**Predictive models**: Linear regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVM, KNN, K-means
+-	Machine Learning, Supervised and Unsupervised models, Artificial Intelligence, LLM, NLP
 
 ## Education
 - Masters in Analytics & Data Science- Northeastern University CPS (Boston, MA) - (_April 2022 – Apr 2024_) - 3.9 GPA
@@ -38,6 +38,16 @@
 -	Employed machine learning algorithms in Python using scikit-learn and TensorFlow, to accurately forecast billed and unbilled vendor payments for the next financial year with 78% accuracy.
 -	Optimized Tableau dashboard operational time to 2-8 seconds by optimizing data access through the creation of efficient stored procedures and views using SQL in Snowflake data warehouse.
 
+**Company: Tech Mahindra (Lear Corporation & Honeywell)** 
+**Data Analyst - (March 2018 – January 2021)**
+-	Translated intricate user requirements into comprehensive reports and analytical dashboards, fostering clear communication between technical and non-technical stakeholders.
+-	Applied advanced data modeling techniques in SQL and Power BI, ensuring the integrity and efficiency of data structures for improved analytical accuracy.
+-	Created live Power BI reports for continuous monitoring of plant functionality and efficiency, resulting in a significant improvement in plant efficiency to 96%.
+-	Boosted performance with a live notification feature for business leaders using Power BI server capabilities, reducing issue resolution delays by 40%.
+-	Analyzed complex historical data to identify four least-performing plants with overall efficiency below 80% and reported findings to business stakeholders through Tableau.
+-	Showcased expertise in Direct Query, M Query Editor, and DAX Syntax within Power BI, enhancing report efficiency to 10 seconds for both live and extract queries.
+-	Directed the implementation of efficient SQL views and procedures in Snowflake and automated 70% of data manipulation tasks.
+-	Utilized ETL tools to build data pipelines, automating the data ingestion process into snowflake.
 
 ## Projects
 ### Capstone: Rapid Text-to-SQL Large language Model Chatbot
@@ -46,6 +56,4 @@ Unlocking Insights from University Data Leveraged Lang chain & Open Ai’s GPT-3
 ### ML Predictive Models to predict bank term deposit enrollment
 Using the supervised machine learning techniques such as Decision tree, Random Forest, and the boosting techniques such as XGBoost, LightGB and CatBoost to predict if a customer would enroll into bank scheme. Even performed feature engineering and sampling methods to improve the accuracy of the models. 
 
-## LINKS
-[GitHub](https://github.com/ShashankRallapalli25)
-[Tableau Public](https://public.tableau.com/app/profile/rvss.shashank) 
+
