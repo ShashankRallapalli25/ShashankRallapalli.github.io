@@ -1,15 +1,26 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+•	Tools: Power BI, Tableau, Qlik, Alteryx, RStudio, SAS Visual Analytics, Azure Databricks, MS Excel
+•	Languages: Python, R-Programming, SQL, DAX
+•	Libraries: NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn, Plotly, ggplot2, dplyr, tidyr
+•	Database: Oracle, SQL Server, MySQL, PostgreSQL, MongoDB
+•	Cloud Services: Snowflake, Azure Data storage, Azure ML
+•	Data Warehousing, Data Mining, ETL, Data Manipulation, Statistical Analysis, Data Modeling
+•	Predictive models: Linear regression, Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, SVM, KNN, K-means
+•	Machine Learning, Supervised and Unsupervised models, Artificial Intelligence, LLM, NLP
+•	Teamwork and Collaboration
+•	Quick Learner
+•	Fast Learner
+•	Problem-Solving
+•	Project Management
 
 ## Education
-- Masters in Analytics & Data Science- Northeastern University CPS (Boston, MA) - April 2022 – Apr 2024
--- 3.9 GPA
+- Masters in Analytics & Data Science- Northeastern University CPS (Boston, MA) - (_April 2022 – Apr 2024_) - 3.9 GPA
 - Bachelor’s Degree (EEE) - B.V.R.I.T (Hyderabad, India) - Sept 2013 – May 2017
 		
-
 ## Work Experience
-**Company: BMW of North America LLC **
+**Company: BMW of North America LLC**
 **Finance Reporting Intern – (April 2023 –Sept 2023)**
 -	Developed predictive analytics applications utilizing Qlik Sense and Qlik Auto ML functionalities to forecast financial trends, optimize team management, and enhance resource allocation efficiency.
 -	Implemented supervised machine learning algorithms, including Decision Trees and Random Forests, to automate headcount forecasting, resulting in a 50% reduction in manual processes and improved workforce planning accuracy.
@@ -29,14 +40,12 @@
 
 
 ## Projects
-###Capstone: Rapid Text-to-SQL Large language Model Chatbot
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
+### Capstone: Rapid Text-to-SQL Large language Model Chatbot
 Unlocking Insights from University Data Leveraged Lang chain & Open Ai’s GPT-3.5 Turbo for real-time interaction with a PostgreSQL database containing university data sourced from IPEDs public website. Devised semantic search, few shot prompt, query decomposition, RAG for guiding users through complex queries, enhancing usability and accuracy.
 
 ### ML Predictive Models to predict bank term deposit enrollment
 Using the supervised machine learning techniques such as Decision tree, Random Forest, and the boosting techniques such as XGBoost, LightGB and CatBoost to predict if a customer would enroll into bank scheme. Even performed feature engineering and sampling methods to improve the accuracy of the models. 
 
-
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-
+## LINKS
+[GitHub](https://github.com/ShashankRallapalli25)
+[Tableau Public](https://public.tableau.com/app/profile/rvss.shashank) 
