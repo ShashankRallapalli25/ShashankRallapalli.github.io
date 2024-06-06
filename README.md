@@ -19,13 +19,13 @@
 
 **Company: Honeywell Technology Solutions**
 **Finance System Analyst - (January 2021 – Dec 2021)**
--Developed an analytical dashboard in Tableau to analyze the company's travel and expenses data, identifying over 10% of unnecessary expenses and projecting potential savings of $20K.
--Implemented a predictive model to accurately forecast expenses for the upcoming financial year with 82% accuracy, facilitating effective budget planning and expenditure reduction strategies.
--Automated data manipulation and expense forecasting processes using Alteryx and its machine learning capabilities (Auto ML), resulting in a reduction of 20 manual work hours per week.
--Crafted 8 analytical dashboards in Tableau Desktop to provide insights into complex financial data, particularly focusing on vendor payments.
--Assisted business teams in clearing approximately $1.2M of overdue payments to various vendors by providing clear insights from Tableau reports.
--Employed machine learning algorithms in Python using scikit-learn and TensorFlow, to accurately forecast billed and unbilled vendor payments for the next financial year with 78% accuracy.
--Optimized Tableau dashboard operational time to 2-8 seconds by optimizing data access through the creation of efficient stored procedures and views using SQL in Snowflake data warehouse.
+-	Developed an analytical dashboard in Tableau to analyze the company's travel and expenses data, identifying over 10% of unnecessary expenses and projecting potential savings of $20K.
+-	Implemented a predictive model to accurately forecast expenses for the upcoming financial year with 82% accuracy, facilitating effective budget planning and expenditure reduction strategies.
+-	Automated data manipulation and expense forecasting processes using Alteryx and its machine learning capabilities (Auto ML), resulting in a reduction of 20 manual work hours per week.
+-	Crafted 8 analytical dashboards in Tableau Desktop to provide insights into complex financial data, particularly focusing on vendor payments.
+-	Assisted business teams in clearing approximately $1.2M of overdue payments to various vendors by providing clear insights from Tableau reports.
+-	Employed machine learning algorithms in Python using scikit-learn and TensorFlow, to accurately forecast billed and unbilled vendor payments for the next financial year with 78% accuracy.
+-	Optimized Tableau dashboard operational time to 2-8 seconds by optimizing data access through the creation of efficient stored procedures and views using SQL in Snowflake data warehouse.
 
 
 ## Projects
@@ -33,8 +33,6 @@
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Unlocking Insights from University Data Leveraged Lang chain & Open Ai’s GPT-3.5 Turbo for real-time interaction with a PostgreSQL database containing university data sourced from IPEDs public website. Devised semantic search, few shot prompt, query decomposition, RAG for guiding users through complex queries, enhancing usability and accuracy.
---
-
 
 ### ML Predictive Models to predict bank term deposit enrollment
 Using the supervised machine learning techniques such as Decision tree, Random Forest, and the boosting techniques such as XGBoost, LightGB and CatBoost to predict if a customer would enroll into bank scheme. Even performed feature engineering and sampling methods to improve the accuracy of the models. 
