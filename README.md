@@ -21,7 +21,7 @@
 		
 ## Work Experience
 **Company: BMW of North America LLC**
-**Finance Reporting Intern – (April 2023 –Sept 2023)**
+**Data Analytics Reporting Intern – (April 2023 –Sept 2023)**
 -	Developed predictive analytics applications utilizing Qlik Sense and Qlik Auto ML functionalities to forecast financial trends, optimize team management, and enhance resource allocation efficiency.
 -	Implemented supervised machine learning algorithms, including Decision Trees and Random Forests, to automate headcount forecasting, resulting in a 50% reduction in manual processes and improved workforce planning accuracy.
 -	Utilized machine learning models to predict employee attrition with 85% accuracy, enabling retention strategies and talent management.
@@ -29,7 +29,7 @@
 -	Built interactive dashboards employing predictive modeling techniques to analyze discrepancies between receivables and accounts payable, leading to a 10% decrease in financial errors and enhanced financial management practices.
 
 **Company: Honeywell Technology Solutions**
-**Finance System Analyst - (January 2021 – Dec 2021)**
+**Data Analyst - (January 2021 – Dec 2021)**
 -	Developed an analytical dashboard in Tableau to analyze the company's travel and expenses data, identifying over 10% of unnecessary expenses and projecting potential savings of $20K.
 -	Implemented a predictive model to accurately forecast expenses for the upcoming financial year with 82% accuracy, facilitating effective budget planning and expenditure reduction strategies.
 -	Automated data manipulation and expense forecasting processes using Alteryx and its machine learning capabilities (Auto ML), resulting in a reduction of 20 manual work hours per week.
